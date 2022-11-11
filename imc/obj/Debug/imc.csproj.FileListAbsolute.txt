@@ -1,0 +1,6 @@
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.Form1.resources
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\luis.goliveira14\source\repos\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
